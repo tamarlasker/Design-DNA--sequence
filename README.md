@@ -1,1 +1,1 @@
-# Design-DNA--sequence
+# Design-DNA-sequence
